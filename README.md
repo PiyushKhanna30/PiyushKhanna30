@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushkhanna30" alt="piyushkhanna30" /></a> </p>
 
-- 🔭 I’m currently working on **Spring and Angular**
+- 🔭 I’m currently working on **Spring and Data Structure and Algorithms**
 
-- 💬 Ask me about **Java, Spring Boot, Angular, Data Structure and Algorithms**
+- 💬 Ask me about **Java, Spring Boot, Data Structure and Algorithms**
 
 
 <h3 align="left">Languages and Tools:</h3>
