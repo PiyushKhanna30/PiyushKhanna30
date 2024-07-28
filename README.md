@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **khanna.piyush30@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1S2CzL8n2Omh9GKGzDyw4thJ9PoYaBDar/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xD399dL_Ggk04bJPVt8kCku5KpiLV0sI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
